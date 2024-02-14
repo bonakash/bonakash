@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @bonakash
-- 👀 I’m interested in Web apps
-- 🌱 I’m currently learning Java
-- 📫 How to reach me- Teams
+- 👋 Hi, I’m @Bonthu Akash
+
 
 <!---
 bonakash/bonakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
